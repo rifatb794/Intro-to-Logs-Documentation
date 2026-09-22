@@ -1,4 +1,4 @@
-# TryHackMe — Intro to Logs
+TryHackMe —Intro to Logs [Documentation]
 
 > A practical SOC and Blue Team report about collecting, managing, and analysing logs.
 
